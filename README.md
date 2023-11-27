@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sabri.milad@ut.ac.ir**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/milad-sabri-a103194a/](https://www.linkedin.com/in/milad-sabri-a103194a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/milad-sabri/](https://www.linkedin.com/in/milad-sabri/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
