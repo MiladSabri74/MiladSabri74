@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Milad Sabri</h1>
-<h3 align="center">A passionate hardware engineer from Iran</h3>
+<h3 align="center">A passionate Embedded software developer from Iran</h3>
 
-- 🔭 I’m currently working on **4G Modem**
+- 🔭 I’m currently working on **Backend Server based on QT**
 
-- 🌱 I’m currently learning **FreeRTOS, embedded Linux and Java**
+- 🌱 I’m currently learning **web application, embedded Linux**
 
-- 🤝 I’m looking for help with **creating embedded Linux with TI microprocessor**
+- 🤝 I’m looking for help with **ble of nrf52832**
 
 - 📝 I regularly write articles on [https://virgool.io/@milad.sabri74](https://virgool.io/@milad.sabri74)
 
-- 💬 Ask me about **programming C++ for ARM microcontroller**
+- 💬 Ask me about **programming C++ Backend/ARM**
 
-- 📫 How to reach me **sabri.milad@ut.ac.ir**
+- 📫 How to reach me **milad.sabri74@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/milad-sabri/](https://www.linkedin.com/in/milad-sabri/)
 
