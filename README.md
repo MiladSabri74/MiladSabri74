@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Milad Sabri</h1>
-<h3 align="center">A passionate Embedded software developer from Iran</h3>
+<h3 align="center">A software developer from Iran</h3>
 
-- 🔭 I’m currently working on **Backend Server based on QT**
+- 🔭 I’m currently working on **C++ projects**
 
-- 🌱 I’m currently learning **web application, embedded Linux**
+- 🌱 I’m currently learning **Python and Golang**
 
-- 🤝 I’m looking for help with **ble of nrf52832**
+- 🤝 I’m looking for help with **FastAPI framework**
 
 - 📝 I regularly write articles on [https://virgool.io/@milad.sabri74](https://virgool.io/@milad.sabri74)
 
-- 💬 Ask me about **programming C++ Backend/ARM**
+- 💬 Ask me about **programming C++**
 
 - 📫 How to reach me **milad.sabri74@gmail.com**
 
